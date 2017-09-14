@@ -1,0 +1,10 @@
+*.dSYM.zip
+*.ipa
+.DS_Store
+*.pbxuser
+*.perspective
+*.perspectivev3
+xcuserdata/*
+*.xcuserdatad
+*.xccheckout
+.idea
