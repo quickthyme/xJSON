@@ -1,0 +1,16 @@
+[
+ {
+ "name": "Tabitha",
+ "type": "feline",
+ "important": true,
+ "available": false,
+ "age": 6
+ },
+ {
+ "name": "Muffin",
+ "type": "canine",
+ "important": false,
+ "available": false,
+ "age": 4
+ }
+]
